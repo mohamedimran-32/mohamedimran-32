@@ -40,13 +40,6 @@
 - 📂 **API-Based CRUD App** – DRF with permissions + token authentication  
 
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160"/>
-</p>
-
-
 ### 🌐 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/mohamed-imran-2766812b8/ 
 - **Email:** mohamed.imran30.dev@gmail.com 
